@@ -64,8 +64,8 @@ Spent 5 years in **Solar/Energy Engineering**, building a robust foundation in t
 
 **🌍 Languages**
 
-English – Professional
-German – A2 (B1 in progress)
+English – Professional |
+German – B1 (B2 in progress) |
 Tamil – Native
 
 **📈 What I’m Looking For**
