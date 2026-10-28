@@ -1,94 +1,85 @@
-👋 Hi, I'm **Manimaran Murugan**
+## 👋 Hi, I'm Manimaran Murugan
 
-Leverkusen, Germany
-🛂 Permanent Residence | Open to Relocation | Available Immediately
-📧 maran.jan31@gmail.com
+**QA Lead | Mobile and Web Testing | Appium, Playwright, CI/CD**
 
-**💼 About Me**
+📍 Leverkusen, Germany | German Permanent Resident | Open to Relocation\
+📧 maran.jan31@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/manimaran-murugan-310191)
 
-I am a Senior QA Engineer with 12+ years of experience, including 4 years focused on manual web application testing. I specialize in delivering high-quality, production-ready software through structured test planning, risk assessment, and strong cross-team collaboration.
+### 💼 About Me
 
-**I’m passionate about:**
-🔎 Breaking complex systems to improve them
-📋 Writing clear, structured test documentation
-🚀 Improving release confidence
-🔁 Continuous quality improvement in Agile environments
+I am a QA Lead with 4+ years of mobile and web quality work and 8+ years in digital product delivery.
 
-**🧠 Core Expertise**
-**🧪 Testing & Quality Assurance**
-Manual Web Application Testing
-Functional & Regression Testing
-Exploratory Testing
-System Integration Testing
-Release Validation
-Cross-Browser Testing (Chrome, Safari, Firefox)
-Accessibility Awareness (WCAG Familiarity)
+At Ford-Werke I led QA across 4 workstreams for the **FordPass app on iOS, Android, web and wearables**. Mobile testing was my main focus there. I wrote Appium scripts for the app, worked on Playwright and Python tests in GitHub Actions, and introduced shift-left practices that cut the defect escape rate by about 35%.
 
-**🔧 Tools & Technologies**
-JIRA
-Postman (REST API Testing)
-SQL
-Browser Developer Tools
-CI/CD Environments
-Log Analysis
+I use AI in my daily testing work: ChatGPT for test case design, defect reports and log analysis, and Claude to build and improve test automation. The projects below were built that way.
 
-**⚙️ Methodologies**
-Agile (Scrum)
-Defect Lifecycle Management
-Risk-Based Testing
-Root Cause Analysis
+### 🧪 Projects
 
-**🏢 Professional Experience**
-**🏆 Senior QA Engineer – QA Lead**
-Ford-Werke GmbH, Germany (via Hays) | 2022 – 2025
+| Project | What it is |
+| --- | --- |
+| [sauce-demo-tests](https://github.com/Manimaran3101/sauce-demo-tests) | Mobile tests for the Sauce Labs demo app on Android with CodeceptJS and Appium. CI runs them on an Android emulator. |
+| [playwright-enterprise-framework](https://github.com/Manimaran3101/playwright-enterprise-framework) | UI and API tests for the Toolshop demo shop with Playwright and TypeScript: E2E, API, contract, visual and accessibility tests. CI publishes a [live test report](https://manimaran3101.github.io/playwright-enterprise-framework/). |
+| [eurowings-flight-status-tests](https://github.com/Manimaran3101/eurowings-flight-status-tests) | QA take-home: requirement evaluation (questions for the PO, 28 test cases, bugs found) and Playwright tests for the eurowings.com flight status search. |
+| [risk-based-ecommerce-automation](https://github.com/Manimaran3101/risk-based-ecommerce-automation) | A small Playwright suite for an online shop. I scored the risks first and only automated the parts where a bug costs money or orders. |
 
-Developed detailed manual test plans & cases for web and backend systems
-Performed functional, regression, integration & UAT testing
-Conducted cross-browser testing
-Reduced production defects by 35% through improved integration testing
-Led release validation activities before go-live
-Actively participated in Agile ceremonies
+All four run in GitHub Actions on every push.
 
-**⚡ Product Owner & Business Analyst | Banking Digital Transformation**
-Wipro Technologies, India | 2018 – 2021
+### 🧠 Skills
 
-Led product ownership and business analysis for the **ICICI iMobile banking application**, supporting over **1 million users** across 3 international markets.The focus was on delivering a high-performance, secure, and user-centric digital banking experience through rapid, agile release cycles.
-**Scalable Delivery:** Managed feature requirements and sprint delivery across **26 biweekly cycles per year**.
-**Predictability:** Sustained an **estimation accuracy within 10%** of actuals over 18 months of sprint planning.
-**End-to-End Ownership:** Successfully drove **4 major product initiatives** from initial requirements elicitation through User Acceptance Testing (UAT) and global go-live.
-**Stakeholder Alignment:** Coordinated with 4–5 senior stakeholders across business and technology sectors to align the delivery roadmap with corporate goals.
+- **Mobile testing:** iOS, Android and wearables; Appium; mobile quality strategy
+- **Test automation:** Appium, Playwright (TypeScript), Python, CodeceptJS, GitHub Actions
+- **Quality strategy:** shift-left, testability and non-functional requirements, acceptance criteria, release sign-off, risk-based testing
+- **Testing:** regression, integration, end-to-end, acceptance, API testing
+- **Tools:** Jira, TestRail, Charles Proxy, Splunk, Dynatrace, Confluence, Postman
+- **AI-assisted QA:** ChatGPT for test cases, defect reports, log analysis and customer-issue triage; Claude for test automation
+- **Team:** defect triage, root cause analysis, mentoring
 
-**🔍 Engineering Professional | Solar & Industrial Energy Systems**
-Aspiration Energy, India | 2012 – 2017
-Spent 5 years in **Solar/Energy Engineering**, building a robust foundation in technical analysis and complex problem-solving. This role involved designing and implementing sustainable energy solutions, which later informed my analytical approach to software product management and QA.
+### 🏢 Experience
 
-**🌍 Languages**
+**Freelance QA Consultant** | E-commerce client (online grocery), Germany | Feb 2026 – present
 
-English – Professional |
-German – B1 (B2 in progress) |
-Tamil – Native
+- End-to-end and regression testing of core customer flows before each release
+- Defect triage with developers and input to release decisions
 
-**📈 What I’m Looking For**
-I am seeking opportunities as a:
-Senior QA Engineer
-Manual QA Specialist
-QA Lead
-Product Quality Engineer
+**Senior QA Engineer / QA Lead** | Hays for Ford-Werke GmbH, Cologne | Jan 2022 – Dec 2025
 
-**Preferably within:**
-Product-driven organizations
-Agile teams
-Web-based platforms
+- Owned quality strategy across 4 workstreams for the FordPass app on iOS, Android, web and wearables, including test strategy, acceptance criteria and release sign-off
+- Wrote Appium automation scripts for the FordPass mobile app and worked on E2E and acceptance tests (Playwright, Python) in GitHub Actions
+- Introduced shift-left practices (testability and non-functional requirements at story level), which cut the defect escape rate by about 35%
+- Used Charles Proxy to debug app traffic, and Splunk and Dynatrace to monitor app and backend behaviour
+- Managed test cases in TestRail and defects in Jira, led defect triage and root cause analysis, and mentored a junior QA engineer
 
-**📊 GitHub Goals**
+**Senior Product Owner** | Hays for Ford-Werke GmbH, Cologne | Jun 2022 – Jul 2024 (alongside the QA Lead role)
 
-On GitHub, I plan to:
-Share QA documentation samples
-Publish API testing examples
-Build sample test plans
-Demonstrate SQL validation scenarios
-Create QA-focused repositories
+- Owned roadmap and backlog for 4 digital account and loyalty products on iOS, Android and web
 
-**💬 Let’s Connect**
+**Freelance Product Owner (interim)** | E-commerce client (fashion), Germany | Feb 2026 – present
 
-If you're building high-quality software and need a QA professional who ensures reliability, clarity, and production stability — let's connect.
+- Launched an LLM-based customer chatbot used by 1,000+ customers per month
+
+**Lead Product Owner, Banking Applications** | Wipro for ICICI Bank | May 2018 – Dec 2021
+
+- Wrote user stories and acceptance criteria and coordinated UAT for banking, payables and remittance apps across several markets
+- Led a team of 15 and managed release coordination, change control and Dynatrace monitoring
+
+**Solar Energy Engineering** | India | 2012 – 2018
+
+- Founder and MD of Teslabz Engineering Solutions, and before that Project Engineer to Projects Manager at Aspiration Energy, delivering industrial solar projects for enterprise clients
+
+### 🎓 Certifications and Education
+
+- Professional Scrum Product Owner I (PSPO I), Scrum.org
+- AI for Product Owner, Scrum Alliance
+- Bachelor of Engineering, Annamalai University, India
+
+### 🌍 Languages
+
+English (fluent) | German (B1) | Tamil (native)
+
+### 📈 What I'm Looking For
+
+QA Lead, Senior QA Engineer, Mobile QA Engineer or Test Automation Engineer roles in product teams, especially for mobile apps.
+
+### 💬 Let's Connect
+
+If your team builds mobile or web products and needs someone who cares about stable releases, feel free to reach out by email or LinkedIn.
