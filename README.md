@@ -53,10 +53,6 @@ All four run in GitHub Actions on every push.
 
 - Owned roadmap and backlog for 4 digital account and loyalty products on iOS, Android and web
 
-**Freelance Product Owner (interim)** | E-commerce client (fashion), Germany | Feb 2026 – present
-
-- Launched an LLM-based customer chatbot used by 1,000+ customers per month
-
 **Lead Product Owner, Banking Applications** | Wipro for ICICI Bank | May 2018 – Dec 2021
 
 - Wrote user stories and acceptance criteria and coordinated UAT for banking, payables and remittance apps across several markets
