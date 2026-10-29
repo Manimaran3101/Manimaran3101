@@ -11,7 +11,7 @@ I am a QA Lead with 4+ years of mobile and web quality work and 8+ years in digi
 
 At Ford-Werke I led QA across 4 workstreams for the **FordPass app on iOS, Android, web and wearables**. Mobile testing was my main focus there. I wrote Appium scripts for the app, worked on Playwright and Python tests in GitHub Actions, and introduced shift-left practices that cut the defect escape rate by about 35%.
 
-I use AI in my daily testing work: ChatGPT for test case design, defect reports and log analysis, and Claude to build and improve test automation. The projects below were built that way.
+I use AI in my daily testing work: Agentic AI/LLM for test case design, defect reports and log analysis, and Claude to build and improve test automation. The projects below were built that way.
 
 ### 🧪 Projects
 
