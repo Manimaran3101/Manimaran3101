@@ -13,7 +13,7 @@ At Ford-Werke I led QA across 4 workstreams for the **FordPass app on iOS, Andro
 
 I use AI in my daily testing work: Agentic AI/LLM for test case design, defect reports and log analysis, and Claude to build and improve test automation. The projects below were built that way.
 
-### 🧪 Projects
+### 🧪 Test Automation Projects
 
 | Project | What it is |
 | --- | --- |
@@ -23,6 +23,12 @@ I use AI in my daily testing work: Agentic AI/LLM for test case design, defect r
 | [risk-based-ecommerce-automation](https://github.com/Manimaran3101/risk-based-ecommerce-automation) | A small Playwright suite for an online shop. I scored the risks first and only automated the parts where a bug costs money or orders. |
 
 All four run in GitHub Actions on every push.
+
+### 🧭 Product & AI Governance
+
+| Project | What it is |
+| --- | --- |
+| [ai-act-governance](https://github.com/Manimaran3101/ai-act-governance) | A prototype that maps an application portfolio to EU AI Act risk tiers and shows which obligations still lack evidence. Claude classifies each AI use case. I tested it against a keyword baseline on 30 cases I labelled myself, and an MCP server lets Claude answer governance questions with per-user access. Includes a [product brief](https://github.com/Manimaran3101/ai-act-governance/blob/main/docs/product-brief.md). |
 
 ### 🧠 Skills
 
