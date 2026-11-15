@@ -28,7 +28,7 @@ All four run in GitHub Actions on every push.
 
 | Project | What it is |
 | --- | --- |
-| [ai-act-governance](https://github.com/Manimaran3101/ai-act-governance) | A prototype that maps an application portfolio to EU AI Act risk tiers and shows which obligations still lack evidence. Claude classifies each AI use case. I tested it against a keyword baseline on 30 cases I labelled myself, and an MCP server lets Claude answer governance questions with per-user access. Includes a [product brief](https://github.com/Manimaran3101/ai-act-governance/blob/main/docs/product-brief.md). |
+| [ai-act-governance](https://github.com/Manimaran3101/ai-act-governance) | A prototype that maps an application portfolio to EU AI Act risk tiers and shows which obligations still lack evidence. Claude classifies each AI use case. An evaluation on 30 cases I labelled myself measures classifiers against a keyword baseline, and an MCP server lets Claude answer governance questions with per-user access. Includes a [product brief](https://github.com/Manimaran3101/ai-act-governance/blob/main/docs/product-brief.md). |
 
 ### 🧠 Skills
 
